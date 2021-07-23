@@ -8,7 +8,7 @@ Faire des appels API sur différents web services pour pouvoir réccupérer des 
 
 Le but du projet est d'appliquer différents algorithmes de ML pour : prédir, anticiper et mieux comprendre l'évolution de la covid-19.
 
-Pour chaque `Jeu de données` on appliquer réspectivement :
+Pour chaque `Jeu de données` on a appliquer réspectivement :
 - Le modéle KMeans et l'arbre de prédiction.
 
 
