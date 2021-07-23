@@ -2,8 +2,8 @@
 
 ## Sujet
 Faire des appels API sur différents web services pour pouvoir réccupérer des jeux de données sur la Covid-19:
-- [Data.gouv](https://www.data.gouv.fr/fr/datasets/r/5c4e1452-3850-4b59-b11c-3dd51d7fb8b5).
-- [Machine_Learnia] (https://raw.githubusercontent.com/MachineLearnia/Python-Machine-Learning/master/Dataset/dataset.csv).
+- [DataGouv](https://www.data.gouv.fr/fr/datasets/r/5c4e1452-3850-4b59-b11c-3dd51d7fb8b5).
+- [MachineLearnia] (https://raw.githubusercontent.com/MachineLearnia/Python-Machine-Learning/master/Dataset/dataset.csv).
 - [Kaggle] (https://www.kaggle.com/search?q=covid).
 
 Le but du projet est d'appliquer différents algorithmes de ML pour : prédir, anticiper et mieux comprendre l'évolution de la covid-19.
